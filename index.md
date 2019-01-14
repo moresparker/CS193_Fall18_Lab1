@@ -19,13 +19,6 @@ Syntax highlighted code block
 - CS 193 will assist be in building the foundation for my coding.
 - The course does not take up a lot of time in a schedule, but teaches a lot in comparison.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
