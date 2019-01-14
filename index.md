@@ -16,7 +16,8 @@ Syntax highlighted code block
 - All of the TA's and instructors are very friendly!
 - I look forward to expanding my Computer Science horizons.
 - The course is enabling me to do work for my goals.
-- CS 193 will assist be in building the foundation for my coding
+- CS 193 will assist be in building the foundation for my coding.
+- The course does not take up a lot of time in a schedule, but teaches a lot in comparison.
 
 1. Numbered
 2. List
